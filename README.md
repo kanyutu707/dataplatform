@@ -1,6 +1,6 @@
 ### **MULTI-FORMAT DATA INGESTION & CORE PROCESSING ENGINE**
 
-**Repository:** `alfred1001/dataplatform`
+**Repository:** `kanyutu707/dataplatform`
 
 **System Purpose:** A high-performance data platform engineered to ingest, validate, and clean multi-format raw datasets to prepare structured matrices optimized for machine learning training.
 
